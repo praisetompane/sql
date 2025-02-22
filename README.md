@@ -1,6 +1,6 @@
 # SQL
 
-**objective**: an in-depth study of SQL, its implementation and ecosystem.
+**objective**: An in-depth study of SQL's implementation and ecosystem.
 
 ## Language details:
 - [language specification](https://www.iso.org/standard/76583.html)
@@ -25,9 +25,6 @@
 
 ## Use Cases:
   - [Applications for Language]()
-  - Large Implementations:
-  - Database Integration:
-  - Web Development:
 
 ## Learning Resources:
   - [roadmap](https://roadmap.sh/sql)
