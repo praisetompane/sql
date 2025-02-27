@@ -1,8 +1,10 @@
 # SQL
+![build status](https://github.com/praisetompane/sql/actions/workflows/sql.yaml/badge.svg) <br>
 
-**objective**: An in-depth study of SQL's implementation and ecosystem.
+## Objectives
+  An in-depth study of SQL's implementation and ecosystem.
 
-## Language details:
+## Language details
 - [language specification](https://www.iso.org/standard/76583.html)
 - [language reference]()
 - [base modules index]()
@@ -21,15 +23,25 @@
 - history and usage:
   - [history]()
 
-## Testing:
+## Testing
 
-## Use Cases:
+## Use Cases
   - [Applications for Language]()
 
-## Learning Resources:
+## Learning Resources
   - [roadmap](https://roadmap.sh/sql)
   - practice problems:
 
-## References:
+## Spell Check
+```shell
+pyspelling -c spellcheck.yaml
+```
+
+## References
+
+## Legend:
+**Q**: Question for later research
+
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
