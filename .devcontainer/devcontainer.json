@@ -1,0 +1,6 @@
+{
+    "name": "sql",
+    "image": "postgres:latest",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/sql,type=bind,consistency=delegated",
+    "workspaceFolder": "/sql"
+}

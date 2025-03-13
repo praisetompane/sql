@@ -6,7 +6,7 @@ Two types of subqueries
 	-Self-contained: no dependency on the outer query that it belongs to
 	-Correlated: dependence on outer query
 	
-	A subquery can be single-valued, multivalued, or table-valued
+	A subquery can be single-valued, multi-valued, or table-valued
 	
 	Self-contained subqueries
 		NB: Logically, it’s as if the subquery code is evaluated only once before the outer query is 
@@ -18,15 +18,15 @@ Two types of subqueries
 				Use in expression of =,<>, <,>. <=,>=
 				If a scalar subquery returns no value, it returns a NULL
 			
-		multivalued
-			A multivalued subquery is a subquery that returns multiple values as a single column, regardless of
+		multi-valued
+			A multi-valued subquery is a subquery that returns multiple values as a single column, regardless of
 			whether the subquery is self-contained
 			
 			Predicates that operate on mutlivalued subqueries
 				IN
 				SOME,ANY,ALL (All 3 very rarely used)
 				
-				IN : <scalar_expression> IN (<multivalued subquery>) [<multivalued subquery> = column of values	]
+				IN : <scalar_expression> IN (<multi-valued subquery>) [<multi-valued subquery> = column of values	]
 				
 	Correlated subqueries
 		These are subqueries that refer to attributes of the outer query, thus dependent on the outer query

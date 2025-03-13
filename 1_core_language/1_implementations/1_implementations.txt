@@ -1,0 +1,12 @@
+Known implementations:
+    - TSQL
+    - PL/SQL
+    - mySQL
+    - PostgreSQL
+    - ...
+    
+    NB: Some of these are also the names of the Relational Database Management System(RDBMS)
+    see: https://github.com/praisetompane/mathematics/blob/main/03_mathematical_logic_and_foundations/5_relation.txt
+
+References:
+   
