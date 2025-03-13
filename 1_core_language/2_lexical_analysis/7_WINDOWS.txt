@@ -50,7 +50,7 @@ WINDOWS
 		  -Ranking window functions support PARTITION and ORDER BY in the OVER() clause
 
 			-ROW_NUMBER:provides incriminating* sequential number for each row [based of course on the order stipulated by the ORDER BY clause]
-				If the column used in the ORDER BY clause has non-unique values, ROW_NUMMBER behaves non-deterministically(whichever of the rows that are the same gets accessed first is assigned a higher rank [Make ORDER BY column unique if you do not desire this, a tie breaker would work just fine])
+				If the column used in the ORDER BY clause has non-unique values, ROW_NUMBER behaves non-deterministically(whichever of the rows that are the same gets accessed first is assigned a higher rank [Make ORDER BY column unique if you do not desire this, a tie breaker would work just fine])
 
 			-RANK
 			     -Indicates how many rows have a lower ranking values

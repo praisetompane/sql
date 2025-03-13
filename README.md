@@ -2,31 +2,37 @@
 ![build status](https://github.com/praisetompane/sql/actions/workflows/sql.yaml/badge.svg) <br>
 
 ## Objectives
-  An in-depth study of SQL's implementation and ecosystem.
+- Notes: The SQ Language 
 
-## Language details
-- [language specification](https://www.iso.org/standard/76583.html)
-- [language reference]()
-- [base modules index]()
-- [standard library reference]()
-- package management:
-  - [packaging]()
-  - tools:
-    - [third party modules/packages index]()
-  - structuring projects:
-- [package index]()
-- [extending and embedding]()
-- [developer contribution guide]()
-- [compiler/interpreter]()
-- memory model:
-  - [computational complexity cost model]()
-- history and usage:
-  - [history]()
-
-## Testing
+## Language Details
+- Language Specification
+  - [Part 1](https://www.iso.org/standard/76583.html)
+  - [Part 2](https://www.iso.org/standard/76584.html)
+  - [Part 3](https://www.iso.org/standard/84803.html)
+  - ...
+- [Compiler | Interpreter]()
+- [Type System]()
+- [Memory Model]()
+- [Language Reference]()
+- [Standard Library]()
+- Packaging and Distribution
+    - [Core Module Index]()
+    - [Package Index]()
+    - Tools:
+        - ...
+    - Structuring Projects:
+        - ...
+- Extending and Embedding
+  - SQL/PSM
+  - SQL/JRT
+- Developer Contribution Guide
+- [History](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/)
 
 ## Use Cases
-  - [Applications for Language]()
+  - Management and Retrieval of data modelled as Relations.
+
+## Community
+
 
 ## Learning Resources
   - [roadmap](https://roadmap.sh/sql)

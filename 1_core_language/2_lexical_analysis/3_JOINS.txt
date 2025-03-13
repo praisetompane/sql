@@ -1,4 +1,4 @@
-JOINS are table expressions, as well as PIVOT,UNPIVOT and APPLY. This chapter focuses on JOINS
+JOINS are table expressions, as well as PIVOT, UNPIVOT and APPLY. This chapter focuses on JOINS
 
 
 Three main types of JOINS

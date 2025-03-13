@@ -1,0 +1,63 @@
+# authors
+praisetompane
+Codd
+
+# institutions
+iec
+
+# acronyms
+JRT
+MYINC
+PSM
+svg
+yaml
+CTEs
+TVFs
+UDFs
+RDBMS
+TSQL
+
+# domain specific
+Equi
+Thetha
+subqueries
+subquery
+
+# sql keywords
+Schemabinding
+NTILE
+CONCAT
+IIF
+NVARCHAR
+VARCHAR
+sys
+UNPIVOT
+DESC
+
+# technology
+pyspelling
+
+# test data
+N'davis
+N'string
+NumberOfOrders
+OrderDate
+OrderYear
+TotalFreight
+ustid
+empID
+empid
+firstname
+helpcollations
+lastname
+orderDate
+orderID
+orderby
+orderid
+custid
+mutlivalued
+
+# urls
+https
+roadmap
+txt
